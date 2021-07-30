@@ -1,5 +1,5 @@
 import Clock from './components/clock'
-import logo from './logo.svg';
+import logo from './assets/logo.svg';
 import {StoreContext} from "./contexts";
 import './app.css';
 import {RootStore} from "./store";
